@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Programmers!;Welcome+to+my+GitHub+;My+name+is+Aquiles+Trindade;I+am+Brazilian;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaikum!;Welcome+to+my+GitHub+;I'm+Sheikh+Abdul+Aziz;I+am+from+India;)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/trindadedev13">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=trindadedev13&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  <a href="https://github.com/sheikh-abdul-aziz">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
   </a>
 </div>
 
