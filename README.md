@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [Syntax Studio](https://github.com/Zyron-Official/SyntaxStudio)
 
 <h4 align="left">Connect with me:</h4>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez) 
 
 <h4 align="left">Languages and Tools:</h4>
