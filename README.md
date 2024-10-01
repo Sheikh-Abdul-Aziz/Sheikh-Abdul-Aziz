@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaikum!;Welcome+to+My+Profile+;I'm+Sheikh+Abdul+Aziz;from+India;I'm+passionate+Android+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaikum!;Welcome+to+My+Profile+;I'm+Sheikh+Abdul+Aziz;I'm+from+India;I'm+a+passionate+Android+Engineer;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/sheikh-abdul-aziz">
