@@ -1,9 +1,7 @@
-<h3 align="center">Hi 👋, I'm Sheikh Abdul Aziz</h3>
+<h3 align="center">Salaam 👋, I'm Sheikh Abdul Aziz</h3>
 <h4 align="center">A passionate android developer from India</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-abdul-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-abdul-aziz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Syntax Studio](https://github.com/Zyron-Official/SyntaxStudio)
 
