@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h4 align="left">Github statistics:</h4>
+<h4 align="left">Github Statistics:</h4>
 
 ![Sheikh-Abdul-Aziz's Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&count_private=true)</br>
 
