@@ -31,3 +31,5 @@
 <h4 align="left">Connect with me:</h4>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
