@@ -30,4 +30,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
 
+![](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
