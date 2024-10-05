@@ -10,7 +10,7 @@
 
 <h4 align="left">Github Statistics:</h4>
 
-  <a href="https://wakatime.com/@pranavpurwar"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@pranavpurwar&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="PranavPurwar" /> </a>
+  <a href="https://wakatime.com/@pranavpurwar"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@sheikh-abdul-aziz&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="PranavPurwar" /> </a>
 
 ![Sheikh-Abdul-Aziz's Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&include_all_commits=true&hide_border=false&count_private=true)</br>
 
