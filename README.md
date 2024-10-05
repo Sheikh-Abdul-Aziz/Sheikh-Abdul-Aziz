@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez) </br> ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
+ 
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
