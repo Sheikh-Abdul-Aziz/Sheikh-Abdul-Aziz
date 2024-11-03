@@ -16,8 +16,9 @@
 
 <!--![Sheikh-Abdul-Aziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)-->
  
+<p align="center">
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
-
+</p>
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="center">
