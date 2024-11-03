@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/sheikh-abdul-aziz">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,following,stars,commits&theme=light" alt="GitHub WidgetBox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,followings,stars,commits&theme=light" alt="GitHub WidgetBox">
   </a>
 </div>
 
