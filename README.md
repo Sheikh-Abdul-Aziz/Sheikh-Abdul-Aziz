@@ -15,8 +15,6 @@
 ![Sheikh-Abdul-Aziz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Abdul-Aziz&theme=buefy&hide_border=false)</br>
 
 <!--![Sheikh-Abdul-Aziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)-->
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
  
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
 
