@@ -16,6 +16,10 @@
 
 <!--![Sheikh-Abdul-Aziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)-->
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
+ 
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
+
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="center">
@@ -23,9 +27,5 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,js,androidstudio,react,git,github,html,css,md,nodejs,firebase,gradle,idea,visualstudio,vscode&perline=8" />
   </a>
 </p>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ShaykhAbdulAzeez)
- 
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
