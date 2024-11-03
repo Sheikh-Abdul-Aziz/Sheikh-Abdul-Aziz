@@ -15,12 +15,6 @@
 ![Sheikh-Abdul-Aziz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Abdul-Aziz&theme=buefy&hide_border=false)</br>
 
 <!--![Sheikh-Abdul-Aziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)-->
- 
-<div align="center">
-
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
-
-</div>
 
 <h4 align="left">Languages and Tools:</h4>
 
@@ -29,5 +23,11 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,html,css,md,js,nodejs,react,firebase,gradle,idea,visualstudio,vscode&perline=8" />
   </a>
 </p>
+
+<div align="center">
+
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
