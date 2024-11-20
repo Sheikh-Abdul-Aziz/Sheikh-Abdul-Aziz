@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h4 align="center">META-INF</h4>
+<h4 align="left">META-INF</h4>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div> 
 
-<h4 align="center">Github Statistics:</h4>
+<h4 align="left">Github Statistics:</h4>
 
 ![Sheikh-Abdul-Aziz's Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&include_all_commits=true&hide_border=false&count_private=true)</br>
 
@@ -24,7 +24,7 @@
 
 <!--![Sheikh-Abdul-Aziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)-->
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align="center">
   <a href="https://skillicons.dev">
