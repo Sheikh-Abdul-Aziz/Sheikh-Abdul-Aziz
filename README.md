@@ -8,9 +8,9 @@
   </a>
 </div>
 
-<h4 align="left">META-INF</h4>
+<h4 align="center">META-INF</h4>
 
-<div align="left">
+<div align="center">
 
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
 
