@@ -31,7 +31,7 @@
 </p>
 
 
-<h4 align="left">Metadata</h4>
+<h4 align="left">Profile information</h4>
 
 <div align="left">
 
