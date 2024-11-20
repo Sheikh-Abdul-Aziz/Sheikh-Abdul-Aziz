@@ -1,12 +1,12 @@
 <div width="90%" style="padding:20px; margin:24px;">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header"/> 
+<img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Salaam+Alaikum!;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/sheikh-abdul-aziz">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
+    <img width="98%"  src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
   </a>
 </div>
 
@@ -38,6 +38,6 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
+<img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
 
 </div>
