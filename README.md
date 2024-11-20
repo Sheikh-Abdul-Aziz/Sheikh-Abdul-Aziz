@@ -1,4 +1,4 @@
-<div style="padding:20">
+<div style="padding:20px">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header"/> 
 
