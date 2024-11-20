@@ -32,9 +32,9 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<p width="98%" align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,react,firebase,gradle,git,github,androidstudio,idea,visualstudio,vscode&perline=8" />
+    <img width="98%"  src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,react,firebase,gradle,git,github,androidstudio,idea,visualstudio,vscode&perline=8" />
   </a>
 </p>
 
