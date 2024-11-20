@@ -3,16 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Salaam+Alaikum!;)](https://git.io/typing-svg)
 
 <div align="center">
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
+</div> 
+
+<div align="center">
   <a href="https://github.com/sheikh-abdul-aziz">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
   </a>
 </div>
-
-<div align="center">
-
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
-
-</div> 
 
 <h4 align="left">Github Statistics:</h4>
 
