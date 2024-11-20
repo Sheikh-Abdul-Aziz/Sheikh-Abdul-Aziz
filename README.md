@@ -18,7 +18,7 @@
 
 <h4 align="left">Github Statistics:</h4>
 
-<div align="left">
+<div align="center">
 
 ![Sheikh-Abdul-Aziz's Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&include_all_commits=true&hide_border=false&count_private=true)</br>
 
