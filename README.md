@@ -10,14 +10,6 @@
   </a>
 </div>
 
-<h4 align="left">META-INF</h4>
-
-<div align="left">
-
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
-
-</div> 
-
 <h4 align="left">Github Statistics:</h4>
 
 <div align="left">
@@ -37,6 +29,15 @@
     <img width="98%"  src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,react,firebase,gradle,git,github,androidstudio,idea,visualstudio,vscode&perline=8" />
   </a>
 </p>
+
+
+<h4 align="left">Metadata</h4>
+
+<div align="left">
+
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
+
+</div> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
 
