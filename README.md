@@ -24,10 +24,10 @@
   </a>
 </p>
 
-<!-- <div align="center">
+ <div align="center">
 
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
 
-</div> -->
+</div> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
