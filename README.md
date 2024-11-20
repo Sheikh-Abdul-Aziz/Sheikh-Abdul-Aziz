@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=14C850)
 
 </div> 
 
