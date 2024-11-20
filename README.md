@@ -10,7 +10,7 @@
 
 <h4 align="left">META-INF</h4>
 
-<div align="center">
+<div align="left">
 
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
 
