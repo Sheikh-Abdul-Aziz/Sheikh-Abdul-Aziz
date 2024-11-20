@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div align="center">
+
+![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
+
+</div> 
+
 <h4 align="left">Github Statistics:</h4>
 
 ![Sheikh-Abdul-Aziz's Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&include_all_commits=true&hide_border=false&count_private=true)</br>
@@ -23,11 +29,5 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,react,firebase,gradle,git,github,androidstudio,idea,visualstudio,vscode&perline=8" />
   </a>
 </p>
-
-<div align="center">
-
-![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=14C850)
-
-</div> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
