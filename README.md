@@ -24,7 +24,7 @@
   </a>
 </p>
 
- <div align="center">
+<div align="center">
 
 ![Github](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=2196f3)
 
