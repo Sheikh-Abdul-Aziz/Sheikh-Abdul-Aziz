@@ -54,7 +54,7 @@
 
 ### Working with
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)
-![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
+![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=Visual+Studio&logoColor=975fdc&style=for-the-badge)
 
 
 <h4 align="left">Profile information</h4>
