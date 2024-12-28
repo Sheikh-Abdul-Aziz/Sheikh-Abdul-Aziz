@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/IntelliJIDEA-084CCF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/WebStorm-7D70FE.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
   </div>
 
   <!-- Profile Information -->
