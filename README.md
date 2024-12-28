@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="98%"  src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,react,firebase,gradle,git,github,androidstudio,idea,visualstudio,vscode&perline=8" />
+    <img width="98%"  src="https://skillicons.dev/icons?i=java,kotlin,html,css,md,js,nodejs,gradle,git,github,androidstudio,vscode&perline=8" />
   </a>
 </p>
 
