@@ -8,7 +8,7 @@
 
   <!-- GitHub Widget -->
   <div align="center">
-    ![![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)](https://github.com/sheikh-abdul-aziz)
+    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)(https://github.com/sheikh-abdul-aziz)
   </div>
 
   <!-- GitHub Statistics -->
