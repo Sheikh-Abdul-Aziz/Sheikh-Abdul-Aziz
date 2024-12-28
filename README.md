@@ -55,10 +55,6 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
   </div>
 
-  <!-- Profile Information -->
-  #### Profile Information
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
-
   <!-- OS and Browser Badges -->
   ### OS and Browser:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -70,6 +66,10 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Edge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
   </div>
+
+ <!-- Profile Information -->
+  #### Profile Information
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
 
   <!-- Footer -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer)
