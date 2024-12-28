@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   </div>
 
   #### Version Control & Dependency Management
@@ -43,6 +45,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub" alt="GitHub">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=" alt="Gradle">
     <img src="https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack" alt="Jitpack">
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   </div>
 
   #### IDEs and Code Editors
@@ -53,6 +56,7 @@
     <img src="https://img.shields.io/badge/WebStorm-7D70FE.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
   </div>
 
   <!-- OS and Browser Badges -->
@@ -61,7 +65,9 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=" alt="Windows">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=Apple&logoColor=FFFFFF&label=" alt="macOS">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=black&label=" alt="Linux">
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Chrome&logoColor=white&label=" alt="Chrome">
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Edge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
