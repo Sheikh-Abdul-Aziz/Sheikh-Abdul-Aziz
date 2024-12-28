@@ -7,7 +7,9 @@
   [![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Salaam+Alaikum!)](https://git.io/typing-svg)
 
   <!-- GitHub Widget -->
-   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)](https://github.com/sheikh-abdul-aziz)
+  <div align="center">
+    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)
+  </div>
 
   <!-- GitHub Statistics -->
   ### GitHub Statistics:
@@ -19,31 +21,37 @@
   ### Languages and Tools:
 
   #### Tech Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=)  
-![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge)  
-![YAML](https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=EA3548&logo=YAML&logoColor=FFFFFF&label=)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)  
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)  
-![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=)  
-![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)  
-![Material You](https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you)  
-![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
+    <img src="https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge" alt="XML">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=EA3548&logo=YAML&logoColor=FFFFFF&label=" alt="YAML">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=" alt="Markdown">
+    <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
+    <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
+  </div>
 
   #### Version Control & Dependency Management
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub)  
-  ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)  
-  ![Jitpack](https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack)  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub" alt="GitHub">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=" alt="Gradle">
+    <img src="https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack" alt="Jitpack">
+  </div>
 
   #### IDEs and Code Editors
-  ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=)  
-  ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-  ![WebStorm](https://img.shields.io/badge/WebStorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)  
-  ![Zed](https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio">
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/WebStorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm">
+    <img src="https://img.shields.io/badge/Zed-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
+  </div>
 
   <!-- Profile Information -->
   #### Profile Information
@@ -51,4 +59,5 @@
 
   <!-- Footer -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer)
+
 </div>
