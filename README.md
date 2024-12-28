@@ -8,7 +8,9 @@
 
   <!-- GitHub Widget -->
   <div align="center">
-    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)
+    <a href="https://github.com/sheikh-abdul-aziz">
+      <img width="98%" src="https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light" alt="GitHub WidgetBox">
+    </a>
   </div>
 
   <!-- GitHub Statistics -->
