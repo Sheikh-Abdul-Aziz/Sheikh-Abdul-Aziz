@@ -27,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
+<img src="https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
 <img src="https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge" alt="XML">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=" alt="Markdown">
