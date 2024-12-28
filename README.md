@@ -49,9 +49,15 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio">
 <img src="https://img.shields.io/badge/Syntax%20Studio-007AFE?style=for-the-badge&logo=Syntax-Studio&logoColor=ffffff&logo=custom" alt="Syntax Studio">
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 <img src="https://img.shields.io/badge/Zed-181717?style=for-the-badge&logoColor=ffffff&logo=Zed" alt="Zed">
 <img src="https://img.shields.io/badge/Visual%20Studio-7D70FE?style=for-the-badge&logo=vscode&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 <h4 align="left">Profile information</h4>
 
