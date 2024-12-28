@@ -7,9 +7,7 @@
   [![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=BDBDBD&size=35&center=true&vCenter=true&width=1000&lines=Salaam+Alaikum!)](https://git.io/typing-svg)
 
   <!-- GitHub Widget -->
-  <div align="center">
-    ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)(https://github.com/sheikh-abdul-aziz)
-  </div>
+   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sheikh-abdul-aziz&data=followers,repositories,stars,commits&theme=light)](https://github.com/sheikh-abdul-aziz)
 
   <!-- GitHub Statistics -->
   ### GitHub Statistics:
