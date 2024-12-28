@@ -59,6 +59,18 @@
   #### Profile Information
   ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
 
+  <!-- OS and Browser Badges -->
+  ### OS and Browser:
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=" alt="Windows">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=Apple&logoColor=FFFFFF&label=" alt="macOS">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=black&label=" alt="Linux">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Chrome&logoColor=white&label=" alt="Chrome">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Edge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
+  </div>
+
   <!-- Footer -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer)
 
