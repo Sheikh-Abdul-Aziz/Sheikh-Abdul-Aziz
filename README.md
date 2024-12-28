@@ -47,10 +47,10 @@
 
 ### IDEs and Code Editors
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio">
-<img src="https://img.shields.io/badge/Visual%20Studio-7D70FE?style=for-the-badge&logo=vscode&logoColor=white" alt="Visual Studio">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Zed-181717?style=for-the-badge&logoColor=ffffff&logo=Zed" alt="Zed">
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+<img src="https://img.shields.io/badge/Visual%20Studio-7D70FE?style=for-the-badge&logo=vscode&logoColor=white" alt="Visual Studio">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Syntax%20Studio-007AFE?style=for-the-badge&logo=Syntax-Studio&logoColor=ffffff&logo=custom" alt="Syntax Studio">
 
 <h4 align="left">Profile information</h4>
