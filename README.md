@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Edge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MsEdge&color=0078D4&logo=MsEdge&logoColor=white&label=" alt="Edge">
   </div>
 
  <!-- Profile Information -->
