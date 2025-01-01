@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/WebStorm-7D70FE.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
-    <img scr="https://img.shields.io/badge/Codepen%-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Code Pen">
+    <img scr="https://img.shields.io/badge/Codepen-%20000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Code Pen">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </div>
 
