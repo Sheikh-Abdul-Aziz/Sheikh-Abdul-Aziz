@@ -60,13 +60,13 @@
   <!-- OS and Browser Badges -->
   ### OS and Browser:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=MSWindows&logoColor=FFFFFF&label=" alt="Windows">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=msWindows&logoColor=FFFFFF&label=" alt="Windows">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=black&label=" alt="Linux">
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
+    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Chrome&logoColor=white" alt="Chrome">
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MsEdge&color=0078D4&logo=MsEdge&logoColor=white&label=" alt="Edge">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MsEdge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
   </div>
 
  <!-- Profile Information -->
