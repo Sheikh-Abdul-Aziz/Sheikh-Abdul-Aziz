@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/WebStorm-7D70FE.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
-    <img scr="https://img.shields.io/badge/Codepen-%20000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Code Pen">
+    <img scr="https://img.shields.io/badge/Codepen-%20000000.svg?style=for-the-badge&logo=Codepen&logoColor=white" alt="Code Pen">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </div>
 
@@ -62,7 +62,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=msWindows&logoColor=FFFFFF&label=" alt="Windows">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=black&label=" alt="Linux">
-    <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=Chrome&logoColor=white" alt="Chrome">
+    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
