@@ -30,11 +30,11 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=" alt="Markdown">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
     <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
   </div>
 
   #### Version Control & Dependency Management
