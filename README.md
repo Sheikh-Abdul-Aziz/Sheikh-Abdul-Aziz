@@ -1,3 +1,14 @@
+* {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0) !important;
+    -webkit-focus-ring-color: rgba(255, 255, 255, 0) !important;
+    -webkit-user-select: none !important; /* For Safari */
+    -moz-user-select: none !important; /* For Mozila Firefox */
+    -ms-user-select: none !important; /* For IE10+ */  
+    user-select: none !important; /* Standard property for Chromium-based browsers */  
+    outline: none !important;
+    box-sizing: border-box !important; 
+}
+
 <!-- Header -->
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header)
 
