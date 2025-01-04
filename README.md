@@ -63,6 +63,7 @@
   ### OS and Browser:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=msWindows&logoColor=FFFFFF&label=" alt="Windows">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=EA3548&logo=Windows&logoColor=FFFFFF&label=" alt="Windows">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=black&label=" alt="Linux">
     <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
