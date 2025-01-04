@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
     <img src="https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge" alt="XML">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=EA3548&logo=YAML&logoColor=FFFFFF&label=" alt="YAML">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Json&color=EA3548&logo=Json&logoColor=FFFFFF&label=" alt="Json">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Json&color=FCC624&logo=Json&logoColor=FFFFFF&label=" alt="Json">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
