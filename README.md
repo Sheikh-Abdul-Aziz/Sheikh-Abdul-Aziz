@@ -85,9 +85,6 @@
 <a href="mailto:sheikhabdulaziz.ml@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" title="gmail">
 </a>
-<a href="https://dev.to/itsakc-me" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" title="dev.to">
-</a>
 <a href="https://codepen.io/Sheikh-Abdul-Aziz" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" title="codepen">
 </a>
