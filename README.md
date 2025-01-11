@@ -14,13 +14,10 @@
   <!-- GitHub Statistics -->
   ### GitHub Statistics:
   ![Stats](https://github-readme-stats.vercel.app/api?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&include_all_commits=true&hide_border=false&count_private=true)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Abdul-Aziz&theme=buefy&hide_border=false)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Abdul-Aziz&theme=buefy&show_icons=true&hide_border=false&layout=compact)
 
   <!-- Languages and Tools -->
-  ### Languages and Tools:
-
-  #### Tech Stack
+  ### Skills Stack
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
@@ -39,7 +36,7 @@
     <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
   </div>
 
-  #### Version Control & Dependency Management
+  ### Version Control & Dependency Management
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=ffffff&logo=GitHub" alt="GitHub">
@@ -47,7 +44,7 @@
     <img src="https://img.shields.io/badge/Jitpack-354a5f?style=for-the-badge&logoColor=ffffff&logo=Jitpack" alt="Jitpack">
   </div>
 
-  #### IDEs and Softwares
+  ### IDEs and Softwares
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio">
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
@@ -72,8 +69,9 @@
   </div>
 
  <!-- Profile Information -->
-  #### Profile Information
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE)
+  ### Profile Information
+  
+![PROFILE VIEW](https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE&style=for-the-badge "profile view")
 
   <!-- Footer -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer)
