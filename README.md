@@ -21,8 +21,8 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=87A9FF&logo=Lua&logoColor=FFFFFF&label=" alt="Lua">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=" alt="Lua">
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="Lua">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell script" title="shell script">
     <img src="https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge" alt="XML">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=EA3548&logo=YAML&logoColor=FFFFFF&label=" alt="YAML">
