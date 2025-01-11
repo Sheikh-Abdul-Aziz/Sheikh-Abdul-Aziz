@@ -91,7 +91,7 @@
 <a href="https://repl.it/@Sheikh-Abdul-Aziz" target="_blank">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" title="repl.it">
 </a>
-<a href="https://stackoverflow.com/users/23115286/itsakc-me" target="_blank">
+<a href="https://stackoverflow.com/users/29156822/sheikh-abdul-aziz" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-overflow" title="stack-overflow">
 </a>
   
