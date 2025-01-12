@@ -88,7 +88,7 @@
 <a href="https://codepen.io/Sheikh-Abdul-Aziz" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" title="codepen">
 </a>
-<a href="https://repl.it/@Sheikh-Abdul-Aziz" target="_blank">
+<a href="https://repl.it/@sheikhabdulaziz" target="_blank">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" title="repl.it">
 </a>
 <a href="https://stackoverflow.com/users/29156822/sheikh-abdul-aziz" target="_blank">
