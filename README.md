@@ -95,7 +95,7 @@
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-overflow" title="stack-overflow">
 </a>
   
-<img src="https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE&style=for-the-badge" alt="profile view" title="profile view">
+    <img src="https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE&style=for-the-badge" alt="profile view" title="profile view">
 
   <!-- Footer -->
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer)
