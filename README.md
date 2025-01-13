@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" title="repl.it">
 </a>
 <a href="https://stackoverflow.com/users/29156822/sheikh-abdul-aziz" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-overflow" title="stack-overflow">
+    <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack-overflow" title="stack-overflow">
 </a>
     <img src="https://komarev.com/ghpvc/?username=Sheikh-Abdul-Aziz&color=7D70FE&style=for-the-badge" alt="profile view" title="profile view">
 
