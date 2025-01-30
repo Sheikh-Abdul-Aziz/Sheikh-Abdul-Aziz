@@ -30,12 +30,12 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=" alt="Markdown">
     <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
-    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
+    <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
   </div>
 
   ### Version Control & Dependency Management
@@ -50,8 +50,6 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=0e2e1d&logo=Android+Studio&logoColor=3DDC84&label=" alt="Android Studio">
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-    <img src="https://img.shields.io/badge/IntelliJIDEA-084CCF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/WebStorm-7D70FE.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codepen&color=000000&logo=Codepen&logoColor=FFFFFF&label=" alt="Codepen">
@@ -67,7 +65,6 @@
     <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
     <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firefox&color=FF7139&logo=Firefox&logoColor=white&label=" alt="Firefox">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Safari&color=000000&logo=Safari&logoColor=white&label=" alt="Safari">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Edge&color=0078D4&logo=Edge&logoColor=white&label=" alt="Edge">
   </div>
 
