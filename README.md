@@ -34,9 +34,10 @@
     <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
-    <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
+   <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
   </div>
 
   ### Version Control & Dependency Management
