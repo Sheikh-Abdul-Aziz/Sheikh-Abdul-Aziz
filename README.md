@@ -39,7 +39,7 @@
    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
    <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS">
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS">
   </div>
 
   ### Version Control & Dependency Management
@@ -73,7 +73,7 @@
   </div>
 
  <!-- Profile Information -->
-  ### Profile Information
+  ### Developer Accounts
   <a href="https://github.com/Sheikh-Abdul-Aziz" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" title="github">
 </a>
