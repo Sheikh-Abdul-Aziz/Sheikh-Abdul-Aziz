@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codepen&color=000000&logo=Codepen&logoColor=FFFFFF&label=" alt="Codepen">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="Framer">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" title="repl.it">
   </div>
 
