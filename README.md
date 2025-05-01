@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
   </div>
 
   ### Version Control & Dependency Management
