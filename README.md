@@ -21,25 +21,25 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Kotlin-7D70FE?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=bd9117&logo=openjdk&logoColor=FFFFFF&label=" alt="Java">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=" alt="Lua">
-   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell script" title="shell script">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=2C2D72&logo=Lua&logoColor=FFFFFF&label=" alt="Lua">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell script" title="shell script">
     <img src="https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white&style=for-the-badge" alt="XML">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YAML&color=EA3548&logo=YAML&logoColor=FFFFFF&label=" alt="YAML">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Json&color=FCC624&logo=Json&logoColor=000000&label=" alt="Json">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Json&color=FCC624&logo=Json&logoColor=000000&label=" alt="Json">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" alt="HTML5">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
-   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" title="sass">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=F6F6F6&logo=Markdown&logoColor=000000&label=" alt="Markdown">
     <img src="https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge" alt="Android">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logoColor=333&logo=material-you" alt="Material You">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=" alt="Jetpack Compose">
-   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
-   <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS">
   </div>
 
   ### Version Control & Dependency Management
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
     <img src="https://img.shields.io/badge/Zed-000000.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codepen&color=000000&logo=Codepen&logoColor=FFFFFF&label=" alt="Codepen">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codepen&color=000000&logo=Codepen&logoColor=FFFFFF&label=" alt="Codepen">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="Framer">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="repl.it" title="repl.it">
@@ -75,7 +75,7 @@
 
  <!-- Profile Information -->
   ### Developer Accounts
-  <a href="https://github.com/Sheikh-Abdul-Aziz" target="_blank">
+<a href="https://github.com/Sheikh-Abdul-Aziz" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" title="github">
 </a>
 <a href="https://gitlab.com/Sheikh-Abdul-Aziz" target="_blank">
